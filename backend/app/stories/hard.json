@@ -1,0 +1,23 @@
+[
+  {
+    "id": 7,
+    "title": "The Mysterious Library",
+    "difficulty": "Hard",
+    "estimated_time": "3 min",
+    "paragraph": "Behind the ancient bookshop on Maple Street, there existed a magnificent library that only appeared at midnight. Sarah discovered this enchanted place by accident while searching for her lost cat. The library contained books from every corner of the world, some written in languages that had been forgotten centuries ago. An elderly librarian with silver spectacles greeted her warmly. He explained that the library served as a sanctuary for stories that needed to be remembered. Sarah spent the entire night reading tales of distant kingdoms, mystical creatures, and adventures beyond imagination. When dawn arrived, the library vanished, leaving Sarah with a single glowing bookmark and an unforgettable memory."
+  },
+  {
+    "id": 8,
+    "title": "The Explorer's Challenge",
+    "difficulty": "Hard",
+    "estimated_time": "3 min",
+    "paragraph": "Captain Marcus had sailed through countless storms and explored uncharted territories throughout his extraordinary career. His latest expedition brought him to an island that cartographers had dismissed as impossible. The island was surrounded by treacherous waters and concealed within perpetual fog. Against all odds, Marcus navigated his ship through the dangerous straits using only ancient maps and his unwavering determination. Upon reaching the island, he discovered ancient ruins revealing secrets of a lost civilization. The inscriptions on the stone tablets described technological achievements that rivaled modern science. Marcus realized that history was far more complex than anyone had imagined, and he devoted himself to sharing this groundbreaking discovery with the world."
+  },
+  {
+    "id": 9,
+    "title": "The Programmer's Dream",
+    "difficulty": "Hard",
+    "estimated_time": "3 min",
+    "paragraph": "Elena was a talented programmer who believed that artificial intelligence could revolutionize education. She spent countless nights developing an algorithm that could understand each student's unique learning style. Her innovative system analyzed patterns in student behavior and adapted content accordingly. During a prestigious technology conference, Elena presented her breakthrough to industry experts and educators. The response was overwhelmingly positive, but critics questioned whether technology could truly replace human interaction. Elena addressed their concerns by demonstrating that her system enhanced human connection rather than replacing it. Teachers could focus on building relationships while the system managed personalized instruction. Her creation won multiple awards and transformed how millions of students learned around the globe."
+  }
+]

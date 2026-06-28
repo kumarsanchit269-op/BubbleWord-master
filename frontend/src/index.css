@@ -1,0 +1,10 @@
+/* Reset and base styles are handled by globals.css */
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  width: 100%;
+}
+

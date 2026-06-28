@@ -1,0 +1,23 @@
+[
+  {
+    "id": 4,
+    "title": "The Friendly Caterpillar",
+    "difficulty": "Medium",
+    "estimated_time": "2 min",
+    "paragraph": "In a beautiful garden, there lived a friendly caterpillar named Cary. Cary had green stripes and loved to eat leaves. Every morning, Cary would crawl slowly across the garden path. One day, Cary met a butterfly named Belle. Belle was colorful and could fly high in the sky. They became very good friends. Cary said, One day I will be like you. Belle smiled and said, You will be even more beautiful!"
+  },
+  {
+    "id": 5,
+    "title": "The Lost Kitten",
+    "difficulty": "Medium",
+    "estimated_time": "2 min",
+    "paragraph": "A small orange kitten named Whiskers got lost in the city. Whiskers was very scared and meowed loudly. A kind boy heard the kitten meowing. He picked up Whiskers gently and looked for her home. After walking for a long time, the boy found a house with a missing cat poster. He rang the doorbell. A little girl opened the door and cried with joy. She had been looking for Whiskers everywhere!"
+  },
+  {
+    "id": 6,
+    "title": "The Magic Apple",
+    "difficulty": "Medium",
+    "estimated_time": "2 min",
+    "paragraph": "There was once a magical apple tree in an old garden. The apples from this tree were very special. Whenever someone bit an apple, they would see their happiest memory. A boy named Tom found the tree one autumn day. He picked a big red apple and took a bite. Suddenly, he remembered playing with his grandfather. The apple tasted like love and happiness. From that day on, Tom visited the tree every season."
+  }
+]

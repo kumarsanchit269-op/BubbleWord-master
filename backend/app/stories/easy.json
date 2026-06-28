@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "The Little Rabbit",
+    "difficulty": "Easy",
+    "estimated_time": "1 min",
+    "paragraph": "The little rabbit jumped over the log. It was a sunny day. The rabbit played in the grass. It had lots of fun."
+  },
+  {
+    "id": 2,
+    "title": "Red Balloon",
+    "difficulty": "Easy",
+    "estimated_time": "1 min",
+    "paragraph": "The red balloon floated into the blue sky. A girl watched it go up. She was very happy. The balloon went higher and higher."
+  },
+  {
+    "id": 3,
+    "title": "Tiny Bird",
+    "difficulty": "Easy",
+    "estimated_time": "1 min",
+    "paragraph": "A tiny bird sang a happy song. It sat on a branch. The sun was warm. Other birds came to listen."
+  }
+]
